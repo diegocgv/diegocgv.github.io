@@ -1,0 +1,529 @@
+sudo apt-get install virtualbox
+virtualbox
+UNAME
+CPUINFO
+NPROC --ALL
+nproc --all
+cpuinfo
+cpuinfo | wc - l
+cpuinfo | wc -l
+grep processor /proc/cpuinfo | wc -l
+grep flags /proc/cpuinfo
+uname -m
+lscpu
+sudo getit /etc/apt/source.list
+sudo getit/etc/apt/source.list
+sudo gedtit/etc/apt/source.list
+sudo gedit /etc/apt/source.list
+sudo gedit/etc/apt/sources.list
+aptitude install gdal-bin python-gdal
+gdalinfo
+cat/etc/issue
+uname
+uname-m
+uname -m
+lsb_release -a
+npm install -g phonegap
+$ cat /proc/cpuinfo
+cat /proc/cpuinfo
+uname -m
+ename
+uname -m
+uname
+cat/etc/issue
+cat /etc/issue
+whereis java
+python
+cat /dev/issue
+python
+cat /etc/issue
+UNAME
+uname
+dir
+cd documentos
+documentos
+cd /Documentos
+cd..
+mkr directorio_pru
+mkr -
+mkr
+dir
+cd /Descargas
+mkdir prueba
+cd /prueba
+ls
+clear
+dir
+ls
+cd Descargas
+dir
+cd..
+cd ..
+dir
+mkdir pruebas
+dir
+cd pruebas
+dir
+cd ..
+dir
+rm pruebas
+rm -r pruebas
+dir
+-help
+uname -help
+-help uname
+uname -h
+-h uname
+man uname
+HELP UNAME
+man ls
+info ls
+type ls
+type uname
+type mkdir
+man mkdir
+help  mkdir
+help  ls
+-help  ls
+ls -h
+ls -help
+ls --help
+mkdir --h
+mkdir --help
+uname --help
+uname --all
+uname -a
+uname -h
+uname --h
+uname -s
+uname -n
+uname -r
+uname -v
+uname -m
+uname -p
+uname -i
+uname -o
+uname -type
+ingfo uname
+info uname
+man uname
+uname --help
+uname -v
+uname -m
+NODE.JS
+node.js
+wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt update && sudo apt install libappindicator1
+sudo apt clean && sudo apt autoclean
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt-get update
+uname
+cd d
+cd cal
+git --v
+git --version
+git status -s
+git log -oneline
+git log --oneline
+git log --oneline 8
+git log --oneline branch
+git branch
+git branch rama_3
+git branch
+git log --oneline
+git log -3
+git log -2
+git log --oneline master
+git log --oneline~2
+git log --oneline master~2
+git log --oneline master~1
+master^1
+master~1
+git show
+git show rama_3
+git branch
+git branch -v
+s
+ls
+git log --oneline --all --graph
+git log --oneline 563791e
+3e5b59f
+git log --oneline 3e5b59f
+GIT --v
+GIT --version
+git --version
+git status -s
+dir
+cd cal
+dirç
+dir
+git status -s
+git add LICENSE.md
+git status -s
+git reset LICENSE.md
+git status -s
+git add LICENSE.md
+git add calculator.html
+git status -s
+git reset LICENSE.md
+git status -s
+git reset
+git  branch
+git  log --oneline
+git  branch -V
+git  branch -v
+git  log --oneline --graph
+git  log --oneline --graph rama_2
+git  branch -v
+git  branch rama 4 3e5b59f
+git  branch -v
+git  log --oneline
+git  branch -v
+git  log --oneline --graph
+git  log --oneline
+git  branch rama_4
+git  log --oneline
+git  branch
+git  checkout rama_2
+git  branch
+git  log --oneline
+git status -s
+git add .
+git status -s
+git  log --oneline
+git  branch
+git commit - "sobre Rama 2"
+git  
+git commit - "so
+git commit - "sobre Rama 2"q
+git  log --oneline
+git commit - "sobre Rama 2"
+git  branch
+--h
+git  --version
+git  branch
+git  log --oneline
+dir
+cd cal
+git  branch
+git  log --oneline
+git status -s
+git commit
+cd cal
+cd..
+git status -s
+git log --oneline
+git branch
+git commit -m "comm en rama 2"
+git branch
+git log --oneline
+git status -s
+git log --oneline
+git checkout master
+git log --oneline
+git branch
+git status -s
+git add .
+git log --oneline
+git status -s
+git log --oneline
+git commit -m "comm en master con  hr"
+git log --oneline
+git status -s
+git branch
+git branch -v
+ls
+git checkout rama_2
+ls
+git checkout master
+ls
+git checkout rama_2
+git commit -m "con calculator2"
+git log --oneline
+git add .
+git commit -m "con calculator2"
+git log --oneline
+git checkout master
+git log --oneline
+git log --oneline --all --graph
+git checkout master
+git log --oneline --all --graph
+git branch -v
+# Edit calculator.html
+ls
+git status -s
+git add .
+git commit -m "con marquee"
+git log --oneline --all --graph
+git checkout rama_2
+git status -s
+git log --oneline
+ls
+git checkout master
+ls
+git branch
+git branch -v
+git log --oneline --all --graph
+git SHOW MASTER
+git show master+ç
+git show master
+git show rama_2
+git show rama_2 master
+clear
+git show rama_2 master
+git diff rama_2 master
+git branch -v
+git checkout -b cal_merge
+git branch -v
+git log --oneline --all --graph
+ls
+git merge master
+git log --oneline --all --graph
+git merge rama_2
+git status -s
+git commit -a -m "integra merge"
+git log --oneline --all --graph
+git log --oneline
+git branch -v
+git checkout master
+git branch -v
+git log --oneline --all --graph
+ls
+git status -s
+git log --oneline
+git status -s
+git log --oneline
+ls
+LS
+ls
+git branch rama_2
+ls
+git checkout rama_2
+ls
+git log --oneline
+ls
+git status -s
+git commit -m "elimina calculator de rama_2"
+git add .
+git commit -m "elimina calculator de rama_2"
+ls
+git checkout master
+ls
+git log --oneline
+git checkout rama_2
+git log --oneline
+git branch
+git log --oneline
+git log --oneline --all -graph
+git log --oneline --all --graph
+git log --oneline
+git checkout rama_3
+git log --oneline
+git checkout rama_4
+git log --oneline
+ls
+git checkout rama_2
+ls
+git checkout master
+git status -s
+git branch
+ls
+git checkout .
+ls
+git status -s
+git checkout rama_2
+git reset .
+git status -s
+git reset calculator2.html
+git status -s
+git add .
+git status -s
+commit
+git commit
+git status -s
+cd cal
+git status -s
+git commit -m "cal + cal2"
+git commit -m "elimina cal2"
+git add .
+git commit -m "elimina cal2"
+ls
+git branch
+ls
+git status -s
+git log --oneline
+git branchOpera
+clear
+git branch
+got log --oneline --all --graph
+git log --oneline --all --graph
+clear
+git branch
+git log --oneline --all --graph
+ls
+git status -s
+git log --oneline
+git status -s
+ls
+git commit
+git add.
+git add .
+ls
+git status -s
+git commit -m "jj"
+git branch
+git log --oneline --all --graph
+git status -s
+git log --oneline
+ls
+git commit "ee"
+git status -s
+git add .
+git status -s
+git commit "ee"
+git commit -m "ee"
+git status -s
+ls
+git log --oneline
+git checkout rama_2
+ls
+git log --oneline
+git log --oneline --all --graph
+git merge
+git merge --h
+git branch
+git status -s
+git log --oneline
+git log --oneline --all --branch
+git log --oneline --all --graph
+UNAME
+uname
+~$ nproc --all
+proc --all
+uname -m
+getconf _NPROCESSORS_ONLN
+UNAME -M
+uname -m
+lscpu
+ls
+sudo apt-get update
+sudo apt-get install virtualbox-5.0
+echo "deb http://download.virtualbox.org/virtualbox/debian trusty contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
+sudo apt-get update
+git
+GIT -V
+GIT --v
+GIT --version
+git --version
+lscpu
+LS
+ls
+id
+whoami
+pwd
+date
+cal
+w
+uname -mç
+uname -m
+lscpu
+sudo apt-get install virtualbox
+lsb_release -a
+virtualbox
+sudo apt-get install virtualbox
+sudo apt-get install virtualbo
+virtualbox
+sudo apt-get install virtualbo
+sudo apt-get install virtualbox
+virtualbox
+sudo apt-get install virtualbox-qt
+whoami
+ID
+id
+whoami
+pwd
+hostname
+who
+finger
+w
+cal
+date
+lscpu
+id
+w
+clear
+quit
+exit
+LS
+ls
+ls -i
+pwd
+cd home
+l
+cd ..
+ls
+ls -i
+cd d
+ls -i
+ls
+pwd
+ls -l
+ls -A
+ls -a
+ls -ai
+ls -ia
+ls -t
+ls -T
+ls -A
+ls -lt
+ls -ltr
+ls -t
+man ls
+la -a
+la -la
+ls -la
+ls
+ls -a
+ls -la
+ls -l
+.gitconfig                              pruebainput
+GIT (miriadax)                   
+ID
+id
+ls
+ECHO DDD
+echo ffff
+sudo apt-get install vim
+Vim
+ls
+mkdir LinuxMOOC
+ls
+id
+ls
+cd..
+ls -a
+cd.
+cd ..
+ls
+cd Prueba1
+ls
+whoami
+pwd
+vim prueba
+ls
+cat index.html
+ls
+cat README
+cat README.md
+cat index.html
+vim index.html
+cat index.html
+vim index.html
+cat index.html
+firefox index.html
+git add index.html
+git status
+git commit -m "Primera versión de mi web"
+git status
+git push origin master
+history -w P2P4.txt
